@@ -1,2 +1,2 @@
-# Cats
-Website for my cats
+# Pet Shop
+hypothetical Website for a pet shop
