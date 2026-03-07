@@ -10,9 +10,6 @@ Yellow: #EAC435
 Orange: #F46036;
 */
 
-
-
-
 body {
     background-color: rgb(249, 252, 190);
     margin: 0;
@@ -36,11 +33,13 @@ h2 {
 }
 .spacer.v20 {
     height: 20px;
-}
-.spacer.v40{
-    height:40px;
 
-}.spacer.v80{
+}
+.spacer.v40 {
+    height:40px;
+}
+
+.spacer.v80 {
     height:80px;
 
 }
@@ -88,7 +87,7 @@ h2 {
     -ms-transition: all 250ms ease-out;
     transition: all 250ms ease-out;
 }
-#topLinks li a:hover{
+#topLinks li a:hover {
     color: #4392F1;
     -webkit-transition: all 250ms ease-out;
     -ms-transition: all 250ms ease-out;
@@ -137,7 +136,7 @@ h2 {
     text-align: center;
 }
 .feature .leftColumn,
-.feature .rightColumn{
+.feature .rightColumn {
     padding: 80px 20px 20px 20px;
     min-height: 260px;
 }
@@ -153,7 +152,7 @@ h2 {
     border-radius: 30px;
 }
 .feature .leftColumn .text a:hover,
-.feature .leftRight .text a:hover {
+.feature .rightColumn .text a:hover {
     -webkit-transition: all 250ms ease-out;
     -ms-transition: all 250ms ease-out;
     transition: all 250ms ease-out;
